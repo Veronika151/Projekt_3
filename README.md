@@ -26,9 +26,9 @@ Skript umožňuje vybrat **libovolný územní celek** (okres nebo obec) a stáh
 
 ## ⚙️ Instalace knihoven
 Seznam použitých knihoven třetích stran (včetně verzí) je uveden v souboru `requirements.txt`.  
-Nainstalovat potřebné knihovny je možné příkazem:
+Nainstalovat potřebné knihovny ve vytvořeném virtuálním prostředí je možné příkazem:
 ```bash
-pip install <jmeno_knihovny>
+pip install -r requirements.txt
 ```
 
 ---
@@ -77,6 +77,3 @@ Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská
 
 ---
 
-## 🧠 Shrnutí  
-**Elections Scraper** je praktický nástroj pro automatizované zpracování a analýzu výsledků voleb v ČR.  
-Díky jednoduchému použití a univerzálnímu výstupu (CSV) se snadno integruje do dalších analytických projektů.
