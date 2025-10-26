@@ -1,5 +1,5 @@
 # 🗳️ Elections Scraper
-*Třetí projekt pro Engeto Python Akademii*  
+*Třetí projekt pro Engeto Datový analytik s Pythonem*  
 
 ## 📘 Popis projektu
 Tento projekt automaticky **stahuje a ukládá výsledky voleb do Poslanecké sněmovny ČR (2017)**.  
