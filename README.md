@@ -1,5 +1,5 @@
 # 🗳️ Elections Scraper
-*Třetí projekt pro Engeto Datový analytik s Pythonem*  
+*Třetí projekt pro Engeto kurz: Datový analytik s Pythonem*  
 
 ## 📘 Popis projektu
 Tento projekt automaticky **stahuje a ukládá výsledky voleb do Poslanecké sněmovny ČR (2017)**.  
@@ -25,7 +25,7 @@ Skript umožňuje vybrat **libovolný územní celek** (okres nebo obec) a stáh
 ---
 
 ## ⚙️ Instalace knihoven
-Potřebné knihovny (včetně verzí) jsou uvedeny v souboru `requirements.txt`.  
+Seznam použitých knihoven třetích stran (včetně verzí) je uveden v souboru `requirements.txt`.  
 Nainstaluj je příkazem:
 ```bash
 pip install -r requirements.txt
