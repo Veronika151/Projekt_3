@@ -24,9 +24,8 @@ Skript main.py se spouští z příkazového řádku a vyžaduje 2 argumenty:
 
 > python main.py <URL_uzemniho_celku> <vystupni_soubor.csv>
 >
-> <URL_uzemniho_celku> = odkaz na vybraný okres nebo obec na portálu volby.cz
-> 
-> <vystupni_soubor.csv> = název souboru, do kterého se uloží výsledky
+URL_uzemniho_celku = odkaz na vybraný okres nebo obec na portálu volby.cz
+vystupni_soubor.csv = název souboru, do kterého se uloží výsledky
 
 Po úspěšném spuštění skript vytvoří CSV soubor s kompletními výsledky voleb pro všechny obce daného územního celku.
 
@@ -58,6 +57,7 @@ Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská
 539970,Borotice,302,202,202,8,91 %,0,49 %,0,00 %,9,90 %,0,00 %,32,17 %,0,00 %,0,00 %,7,42 %,0,00 %,1,98 %,0,00 %,0,49 %,7,92 %,0,49 %
 539988,Bratkovice,252,167,166,17,46 %,0,00 %,0,00 %,6,62 %,0,00 %,24,09 %,0,00 %,0,00 %,5,42 %,0,00 %,4,21 %,0,00 %,0,00 %,13,25 %,0,00 %
 ```
+
 
 
 
