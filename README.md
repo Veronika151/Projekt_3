@@ -26,7 +26,7 @@ Skript umožňuje vybrat **libovolný územní celek** (okres nebo obec) a stáh
 
 ## ⚙️ Instalace knihoven
 Seznam použitých knihoven třetích stran (včetně verzí) je uveden v souboru `requirements.txt`.  
-Nainstaluj je příkazem:
+Nainstalovat potřebné knihovny je možné příkazem:
 ```bash
 pip install -r requirements.txt
 ```
