@@ -11,10 +11,10 @@ Skript umožňuje vybrat libovolný územní celek (okres či obec) a stáhne v�
 - výsledků jednotlivých politických stran.
 
 ## Struktura projektu
-main.py – hlavní skript pro stahování volebních výsledků
-requirements.txt – seznam knihoven potřebných pro běh skriptu
-README.md – dokumentace projektu
-*.csv – výstupní soubor s výsledky voleb
+- main.py – hlavní skript pro stahování volebních výsledků
+- requirements.txt – seznam knihoven potřebných pro běh skriptu
+- README.md – dokumentace projektu
+- *.csv – výstupní soubor s výsledky voleb
 
 ## Instalace knihoven
 Soupis všech knihoven, včetně jejich verzí, potřebných pro běh skriptu je uveden v souboru requirements.txt.
@@ -57,4 +57,5 @@ Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská
 539970,Borotice,302,202,202,8,91 %,0,49 %,0,00 %,9,90 %,0,00 %,32,17 %,0,00 %,0,00 %,7,42 %,0,00 %,1,98 %,0,00 %,0,49 %,7,92 %,0,49 %
 539988,Bratkovice,252,167,166,17,46 %,0,00 %,0,00 %,6,62 %,0,00 %,24,09 %,0,00 %,0,00 %,5,42 %,0,00 %,4,21 %,0,00 %,0,00 %,13,25 %,0,00 %
 ```
+
 
