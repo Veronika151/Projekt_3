@@ -2,7 +2,7 @@
 *Třetí projekt pro Engeto kurz: Datový analytik s Pythonem*  
 
 ## 📘 Popis projektu
-Tento projekt automaticky **stahuje a ukládá výsledky voleb do Poslanecké sněmovny ČR (2017)**.  
+Tento projekt automaticky **stahuje a ukládá výsledky voleb do Poslanecké sněmovny Parlamentu České republiky, které se konaly v roce 2017**.  
 Data pocházejí z oficiálního volebního portálu **[volby.cz](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)**  
 a ukládají se do **CSV souboru**, vhodného pro další analýzu.  
 
@@ -41,7 +41,7 @@ python main.py <URL_uzemniho_celku> <vystupni_soubor.csv>
 ```
 
 **Parametry:**
-- `<URL_uzemniho_celku>` – odkaz na vybraný okres nebo obec z portálu [volby.cz](https://www.volby.cz)  
+- `<URL_uzemniho_celku>` – odkaz na vybraný okres nebo obec 
 - `<vystupni_soubor.csv>` – název souboru, kam se výsledky uloží  
 
 Po úspěšném spuštění skript vytvoří **CSV soubor** s kompletními výsledky všech obcí vybraného území.
@@ -58,11 +58,12 @@ python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnu
 
 ### Průběh:
 ```
-STAHUJI DATA Z URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2111
-STAHUJI DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=2&xobec=529672&xvyber=2111
+STAHUJI DATA Z VYBRANÉHO URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2111
+STAHUJI DATA Z VYBRANÉHO URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=2&xobec=529672&xvyber=2111
+STAHUJI DATA Z VYBRANÉHO URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=2&xobec=564559&xvyber=2111
 ...
 UKLÁDÁM DATA DO SOUBORU: vysledky_pribram.csv
-UKONČUJI: main.py
+UKONČUJI election-scraper
 ```
 
 ---
