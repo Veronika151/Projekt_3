@@ -63,7 +63,7 @@ STAHUJI DATA Z VYBRANÉHO URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xk
 STAHUJI DATA Z VYBRANÉHO URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=2&xobec=564559&xvyber=2111
 ...
 UKLÁDÁM DATA DO SOUBORU: vysledky_pribram.csv
-UKONČUJI election-scraper
+UKONČUJI elections-scraper
 ```
 
 ---
