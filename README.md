@@ -25,6 +25,7 @@ Skript main.py se spouští z příkazového řádku a vyžaduje 2 argumenty:
 > python main.py <URL_uzemniho_celku> <vystupni_soubor.csv>
 >
 > <URL_uzemniho_celku> = odkaz na vybraný okres nebo obec na portálu volby.cz
+> 
 > <vystupni_soubor.csv> = název souboru, do kterého se uloží výsledky
 
 Po úspěšném spuštění skript vytvoří CSV soubor s kompletními výsledky voleb pro všechny obce daného územního celku.
@@ -49,7 +50,6 @@ Průběh stahování:
 > UKONČUJI: main.py
 
 Částečný výstup:
-
 ```
 Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ SPOLEČNOSTI,Česká str.sociálně demokrat.,Radostné Česko,ANO 2011,Dobrá volba 2016,SPR-Republ.str.Čsl. M.Sládka,Křesť.demokr.unie-Čs.str.lid.,Česká strana národně sociální,REALISTÉ,SPORTOVCI,Dělnic.str.sociální spravedl.,Svob.a př.dem.-T.Okamura (SPD),Strana Práv Občanů
 529672,Bezděkov pod Třemšínem,134,105,103,11,65 %,0,00 %,0,00 %,9,70 %,0,00 %,31,06 %,0,00 %,0,97 %,2,91 %,0,00 %,0,00 %,0,97 %,0,00 %,4,85 %,0,00 %
@@ -58,6 +58,7 @@ Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská
 539970,Borotice,302,202,202,8,91 %,0,49 %,0,00 %,9,90 %,0,00 %,32,17 %,0,00 %,0,00 %,7,42 %,0,00 %,1,98 %,0,00 %,0,49 %,7,92 %,0,49 %
 539988,Bratkovice,252,167,166,17,46 %,0,00 %,0,00 %,6,62 %,0,00 %,24,09 %,0,00 %,0,00 %,5,42 %,0,00 %,4,21 %,0,00 %,0,00 %,13,25 %,0,00 %
 ```
+
 
 
 
