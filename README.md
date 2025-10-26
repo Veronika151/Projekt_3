@@ -70,7 +70,7 @@ UKONČUJI election-scraper
 
 ## 🧾 Ukázka výstupu (CSV)
 ```csv
-Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ SPOLEČNOSTI,Česká str.sociálně demokrat.,Radostné Česko,STAROSTOVÉ A NEZÁVISLÍ,Komunistická str.Čech a Moravy,Strana zelených,...
+Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ SPOLEČNOSTI,Česká str.sociálně demokrat.,Radostné Česko,STAROSTOVÉ A NEZÁVISLÍ,...
 529672,Bezděkov pod Třemšínem,134,105,103,12,0,0,10,0,13,11,2,0,1,0,1,11,0,0,0,32,0,1,3,0,0,0,1,5,0
 564559,Bohostice,167,108,108,12,0,0,9,0,5,22,1,0,0,0,0,7,0,0,5,37,0,0,4,0,0,0,1,5,0
 539953,Bohutín,1 417,925,920,93,1,2,50,0,45,75,12,6,13,2,1,88,1,1,50,348,1,2,30,1,7,2,0,88,1
