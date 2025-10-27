@@ -120,4 +120,5 @@ if __name__ == "__main__":
         writer.writerow(header)
         writer.writerows(rows)
     print("✅ HOTOVO: Data byla úspěšně uložena.")
-    print("UKONČUJI elections-scraper")
+
+    print("UKONČUJI main.py")
