@@ -63,7 +63,7 @@ STAHUJI DATA Z VYBRANÉHO URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xk
 ...
 UKLÁDÁM DATA DO SOUBORU: vysledky_pribram.csv
 ✅ HOTOVO: Data byla úspěšně uložena.
-UKONČUJI elections-scraper
+UKONČUJI main.py
 ```
 
 ---
