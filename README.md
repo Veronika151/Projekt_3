@@ -69,10 +69,12 @@ UKONČUJI elections-scraper
 
 ## 🧾 Ukázka výstupu (CSV)
 ```csv
-Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ SPOLEČNOSTI,Česká str.sociálně demokrat.,Radostné Česko,STAROSTOVÉ A NEZÁVISLÍ,...
-529672,Bezděkov pod Třemšínem,134,105,103,12,0,0,10,0,13,11,2,0,1,0,1,11,0,0,0,32,0,1,3,0,0,0,1,5,0
-564559,Bohostice,167,108,108,12,0,0,9,0,5,22,1,0,0,0,0,7,0,0,5,37,0,0,4,0,0,0,1,5,0
-539953,Bohutín,1 417,925,920,93,1,2,50,0,45,75,12,6,13,2,1,88,1,1,50,348,1,2,30,1,7,2,0,88,1
+Kód obce;Název obce;Voliči v seznamu;Vydané obálky;Platné hlasy;Občanská demokratická strana;Řád národa - Vlastenecká unie;CESTA ODPOVĚDNÉ SPOLEČNOSTI;Česká str.sociálně demokrat.;...
+529672;Bezděkov pod Třemšínem;134;105;103;12;0;0;10;32;3;0;9;8;5;3;1;0
+564559;Bohostice;167;108;108;12;0;0;9;37;4;0;7;6;5;2;1;0
+539953;Bohutín;1417;925;920;93;1;2;50;348;30;11;79;61;88;17;4;4
+539970;Borotice;302;202;202;18;1;0;20;65;15;2;12;11;16;3;0;0
+539988;Bratkovice;252;167;166;29;0;0;11;40;9;1;17;13;22;4;0;0
 ...
 ```
 
