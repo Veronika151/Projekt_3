@@ -40,7 +40,7 @@ python main.py <URL_uzemniho_celku> <vystupni_soubor.csv>
 ```
 
 **Parametry:**
-- `<URL_uzemniho_celku>` – odkaz na vybraný okres nebo obec 
+- `<URL_uzemniho_celku>` – odkaz na vybraný okres
 - `<vystupni_soubor.csv>` – název souboru, kam se výsledky uloží  
 
 Po úspěšném spuštění skript vytvoří **CSV soubor** s kompletními výsledky všech obcí vybraného území.
