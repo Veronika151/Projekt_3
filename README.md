@@ -5,11 +5,11 @@
 Cílem projektu je **zpracování a získání výsledků voleb do Poslanecké sněmovny Parlamentu České republiky, které se konaly v roce 2017**.  
 Data pocházejí z oficiálního volebního portálu **[volby.cz](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)** a ukládají se do **CSV souboru**, vhodného pro další analýzu.  
 
-Skript umožňuje vybrat **libovolný územní celek** (okres nebo obec) a stáhne:  
-- počet registrovaných voličů  
-- počet vydaných obálek  
-- počet platných hlasů  
-- výsledky všech kandidujících stran  
+Skript umožňuje vybrat **libovolný okres** a automaticky stáhne výsledky hlasování pro všechny obce daného územního celku, včetně podrobných údajů o:
+- počtu registrovaných voličů  
+- počtu vydaných obálek  
+- počtu platných hlasů  
+- výsledcích všech kandidujících stran  
 
 ---
 
