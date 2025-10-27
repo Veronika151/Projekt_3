@@ -2,9 +2,8 @@
 *Třetí projekt pro Engeto kurz: Datový analytik s Pythonem*  
 
 ## 📘 Popis projektu
-Tento projekt automaticky **stahuje a ukládá výsledky voleb do Poslanecké sněmovny Parlamentu České republiky, které se konaly v roce 2017**.  
-Data pocházejí z oficiálního volebního portálu **[volby.cz](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)**  
-a ukládají se do **CSV souboru**, vhodného pro další analýzu.  
+Cílem projektu je **zpracování a získání výsledků voleb do Poslanecké sněmovny Parlamentu České republiky, které se konaly v roce 2017**.  
+Data pocházejí z oficiálního volebního portálu **[volby.cz](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)** a ukládají se do **CSV souboru**, vhodného pro další analýzu.  
 
 Skript umožňuje vybrat **libovolný územní celek** (okres nebo obec) a stáhne:  
 - počet registrovaných voličů  
